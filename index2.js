@@ -98,5 +98,3 @@ patients.sort((elementA, elementB) => {
   return elementB.firstName.localeCompare(elementA.firstName); // sort by string
 });
 console.table(patients);
-
-// git
